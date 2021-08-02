@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221549725747",
+    "project_id": "fashotrial1",
+    "storage_bucket": "fashotrial1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221549725747:android:114ac785ee5465a66afb46",
+        "android_client_info": {
+          "package_name": "com.example.fasholast1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221549725747-d8rteq1b4i266319kqm8nt073nm7n7h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zlBmtAWSRU2LR_0FhTn7eNJH75caxSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221549725747-d8rteq1b4i266319kqm8nt073nm7n7h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
